@@ -1,0 +1,38 @@
+.wrapper{
+    display: flex;
+    position: relative;
+}
+
+.wrapper .main_content{
+    width: 100%;
+    padding: 20px;
+    margin-left: 200px;
+}
+
+.wrapper .main_content .header{
+    padding: 20px;
+    background: #fff;
+    color: #717171;
+    border-bottom: 1px solid #e0e4e8;
+}
+
+.wrapper .main_content .info{
+    margin: 20px;
+    color: #717171;
+    line-height: 25px;
+}
+
+.wrapper .main_content .info div{
+    margin-bottom: 20px;
+}
+
+.wrapper .main_content .info .box{
+    background: #fff;
+    color: #717171;
+    border-bottom: 1px solid #e0e4e8;
+}
+
+.wrapper .main_content .info .box .btn_option{
+   margin-left: 10px;
+    
+}
